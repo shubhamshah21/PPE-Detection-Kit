@@ -1,0 +1,40 @@
+# cvzone
+# ultralytics
+# hydra-core
+# matplotlib
+# numpy
+# opencv-python
+# Pillow
+# PyYAML
+# requests
+# scipy
+# torch
+# torchvision
+# tqdm
+# filterpy
+# scikit-image
+# lap
+# flask_wtf
+# WTForms
+# Flask-WTF
+# opencv-python
+
+
+cvzone
+ultralytics
+hydra-core
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+filterpy
+scikit-image
+flask_wtf
+WTForms
+streamlit
