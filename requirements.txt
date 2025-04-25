@@ -21,6 +21,7 @@
 
 
 cvzone
+gunicorn
 ultralytics
 hydra-core
 matplotlib
